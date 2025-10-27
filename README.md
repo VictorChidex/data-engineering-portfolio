@@ -97,6 +97,10 @@ This repo documents my hands-on journey as I learn, design, and build end-to-end
 
 ---
 
+> 🧩 “Becoming a data engineer isn’t about learning every tool — it’s about mastering the **data lifecycle**: from raw to reliable insights.”
+
+---
+
 ## 🌐 Connect with Me
 📧 Email: victorchidex1@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/dera-opara)
