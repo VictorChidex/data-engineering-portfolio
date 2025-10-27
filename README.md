@@ -37,6 +37,6 @@ Welcome! This repository documents my journey toward becoming a **Data Engineer*
 ## 📬 Connect
 📧 Email: victorchidex1@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/dera-opara)
-🐍 [GitHub](https://github.com/yourusername)
+🐍 [GitHub](https://github.com/VictorChidex)
 
 ---
