@@ -49,12 +49,12 @@ This repo documents my hands-on journey as I learn, design, and build end-to-end
 #### 🧠 **SQL Stack**
 - **Core Skills:** T-SQL, Synapse SQL, Window Functions, CTEs, Stored Procedures  
 - **Use Cases:** Data modeling, transformations, analytics queries, performance tuning  
-- **Folder:** [`09-Learn-SQL`](./09-Learn-SQL/README.md)
+- **Folder:** [`09-Learn-SQL`](./01-Learn-SQL/README.md)
 
 #### 🐍 **Python Stack**
 - **Core Skills:** Pandas, PySpark, NumPy, SQLAlchemy, Azure SDKs  
 - **Use Cases:** ETL scripting, data wrangling, pipeline development, Databricks notebooks  
-- **Folder:** [`10-Learn-Python`](./10-Learn-Python/README.md)
+- **Folder:** [`10-Learn-Python`](./02-Learn-Python/README.md)
 
 ### 📊 **Data Visualization & Reporting**
 - **Power BI** — Dashboards and insights  
