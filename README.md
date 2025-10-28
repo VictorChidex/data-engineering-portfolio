@@ -9,18 +9,18 @@ This repo documents my hands-on journey as I learn, design, and build end-to-end
 
 | Folder | Description |
 |--------|--------------|
-| [`00-Profile`](./00-Profile/README.md) | About me, skills, and progress tracking |
-| [`01-Learn-SQL`](./01-Learn-SQL/README.md) | SQL for data analysis, transformation, and warehousing |
-| [`02-Learn-Python`](./02-Learn-Python/README.md) | Python for data engineering (ETL, Pandas, PySpark) |
-| [`03-Azure-Fundamentals`](./03-Azure-Fundamentals/README.md) | Azure basics, CLI, and setup guides |
-| [`04-Data-Storage`](./04-Data-Storage/README.md) | Azure Data Lake Gen2, Blob Storage, and architecture |
-| [`05-Data-Ingestion`](./05-Data-Ingestion/README.md) | Data ingestion using ADF, Event Hub, and Synapse pipelines |
-| [`06-Data-Transformation`](./06-Data-Transformation/README.md) | Data transformation using Databricks (PySpark) |
-| [`07-Data-Warehousing`](./07-Data-Warehousing/README.md) | Building analytical warehouses in Azure Synapse |
-| [`08-Data-Orchestration-Monitoring`](./08-Data-Orchestration-Monitoring/README.md) | Orchestrating pipelines and setting up monitoring |
-| [`09-Data-Governance-Security`](./09-Data-Governance-Security/README.md) | Data governance, access control, and Key Vault |
-| [`10-Projects`](./10-Projects/README.md) | End-to-end Azure Data Engineering projects |
-| [`11-Certification-Prep`](./11-Certification-Prep/README.md) | Study materials for DP-203 and related Azure exams |
+| [`00-Profile`](./00-Profile) | About me, skills, and progress tracking |
+| [`01-Learn-SQL`](./01-Learn-SQL) | SQL for data analysis, transformation, and warehousing |
+| [`02-Learn-Python`](./02-Learn-Python) | Python for data engineering (ETL, Pandas, PySpark) |
+| [`03-Azure-Fundamentals`](./03-Azure-Fundamentals) | Azure basics, CLI, and setup guides |
+| [`04-Data-Storage`](./04-Data-Storage) | Azure Data Lake Gen2, Blob Storage, and architecture |
+| [`05-Data-Ingestion`](./05-Data-Ingestion) | Data ingestion using ADF, Event Hub, and Synapse pipelines |
+| [`06-Data-Transformation`](./06-Data-Transformation) | Data transformation using Databricks (PySpark) |
+| [`07-Data-Warehousing`](./07-Data-Warehousing) | Building analytical warehouses in Azure Synapse |
+| [`08-Data-Orchestration-Monitoring`](./08-Data-Orchestration-Monitoring) | Orchestrating pipelines and setting up monitoring |
+| [`09-Data-Governance-Security`](./09-Data-Governance-Security) | Data governance, access control, and Key Vault |
+| [`10-Projects`](./10-Projects) | End-to-end Azure Data Engineering projects |
+| [`11-Certification-Prep`](./11-Certification-Prep) | Study materials for DP-203 and related Azure exams |
 
 ---
 
