@@ -1,5 +1,7 @@
 # 💾 What is Data Engineering?  
 
+<img width="1536" height="1024" alt="Understanding Data Engineering in the Age of Big Data" src="https://github.com/user-attachments/assets/bd15c501-43e0-4cfc-a540-d86455c150d3" />
+
 Data Engineering is the process of **collecting, storing, preparing, and delivering data** so it can be effectively used by analysts, data scientists, and ML engineers.  
 
 ### Data Flow in Organizations
