@@ -1,4 +1,3 @@
 [Raw Data Sources] --> [Data Lake / Blob Storage] --> [Azure Data Factory] 
          --> [Data Cleaning & Transformation (Databricks / PySpark)] 
-         --> [Data Warehouse (Azure Synapse)] --> [Power BI Dashboard / Analytics] 
-:
+         --> [Data Warehouse (Azure Synapse)] --> [Power BI Dashboard / Analytics]
