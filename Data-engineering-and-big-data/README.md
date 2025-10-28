@@ -33,3 +33,27 @@ Big Data is characterized by the **5 Vs**:
 - **Value** – Utility of the data
 
 Data engineers take all these into consideration when **building robust, scalable, and reliable data systems**.
+
+
+    <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+      <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <style>
+            /[Raw Data Sources] --> [Data Lake / Blob Storage] --> [Azure Data Factory] 
+         --> [Data Cleaning & Transformation (Databricks / PySpark)] 
+         --> [Data Warehouse (Azure Synapse)] --> [Power BI Dashboard / Analytics]/
+            .my-heading {
+              color: #ff0000;
+              font-family: sans-serif;
+            }
+            .my-paragraph {
+              font-size: 1.2em;
+              line-height: 1.5;
+            }
+          </style>
+          <!-- Your HTML content goes here -->
+          <h1 class="my-heading">Welcome to my project!</h1>
+          <p class="my-paragraph">This is a custom-styled paragraph within the README.</p>
+        </div>
+      </foreignObject>
+    </svg>
