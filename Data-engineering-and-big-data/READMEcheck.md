@@ -33,3 +33,7 @@ Big Data is characterized by the **5 Vs**:
 - **Value** – Utility of the data
 
 Data engineers take all these into consideration when **building robust, scalable, and reliable data systems**.
+
+
+
+
