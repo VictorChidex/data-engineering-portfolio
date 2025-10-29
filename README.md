@@ -100,6 +100,23 @@ This repo documents my hands-on journey as I learn, design, and build end-to-end
 > 🧩 “Becoming a data engineer isn’t about learning every tool — it’s about mastering the **data lifecycle**: from raw to reliable insights.”
 
 ---
+📁 sql_basics/
+   └── practice_queries.sql
+📁 python_for_data/
+   └── data_cleaning.py
+📁 azure_data_pipeline/
+   ├── adf_pipeline.json
+   ├── databricks_notebook.ipynb
+   └── powerbi_dashboard.pbix
+📁 big_data_concepts/
+   └── 5Vs_summary.md
+📁 docs/
+   └── diagrams/
+       ├── data_flow.png
+       ├── etl_pipeline.png
+       └── azure_architecture.png
+
+---
 
 ## 🌐 Connect with Me
 📧 Email: victorchidex1@gmail.com  
