@@ -8,6 +8,9 @@ This guide walks through **core concepts**, **real-world architecture**, and **A
 
 ## 🌍 What is Data Engineering?
 
+<img width="1536" height="1024" alt="Understanding Data Engineering in the Age of Big Data" src="https://github.com/user-attachments/assets/8514991f-10dc-4f7c-9297-6959ec657a07" />
+
+
 **Data Engineering** is the foundation of every data-driven organization.  
 Data Engineers design and build systems that **ingest, clean, transform, and deliver** data efficiently — ensuring analysts, scientists, and AI systems can work seamlessly.
 
@@ -47,6 +50,8 @@ Data Engineers lay the groundwork for analytics by ensuring data is:
 ---
 
 ## 🧮 Data Engineering vs Data Science
+
+<img width="1024" height="1536" alt="Data Engineer vs Data Scientist Comparison" src="https://github.com/user-attachments/assets/6072defd-d57b-4dec-ab67-258d70ecb7f0" />
 
 | Aspect | Data Engineer | Data Scientist |
 |--------|----------------|----------------|
