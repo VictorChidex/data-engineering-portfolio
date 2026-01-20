@@ -63,6 +63,15 @@ Question 4. Which was the pick up day with the longest trip distance? Only consi
 2025-11-23
 2025-11-25
 
+SELECT
+    DATE(lpep_pickup_datetime) AS pickup_day,
+    trip_distance
+FROM  public.green_taxi_trips_2025_11
+WHERE trip_distance < 100
+ORDER BY trip_distance DESC
+LIMIT 1;
+
+
 Question 5. Which was the pickup zone with the largest total_amount (sum of all trips) on November 18th, 2025? (1 point)
 East Harlem North
 East Harlem South
@@ -81,4 +90,5 @@ teraform init, terraform plan -auto-apply, terraform rm
 terraform init, terraform run -auto-approve, terraform destroy
 terraform init, terraform apply -auto-approve, terraform destroy
 terraform import, terraform apply -y, terraform rm
+
 
